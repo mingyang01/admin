@@ -1,0 +1,24 @@
+[ 2016-03-24T04:01:40+08:00 ] 213.246.45.128 /cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载模块:Cache
+
+[ 2016-03-24T06:45:35+08:00 ] 218.29.141.26 /console/login/LoginForm.jsp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 无法加载模块:Console
+
+[ 2016-03-24T10:01:43+08:00 ] 61.222.160.128 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-03-24T10:16:03+08:00 ] 213.246.45.128 /cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Cache
+
